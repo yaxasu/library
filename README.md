@@ -1,0 +1,1 @@
+This is a simple library made to learn usage of JavaScript arrays, objects, and object constructors
